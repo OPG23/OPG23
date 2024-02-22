@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on a big Software Company
-- 📫 How to reach me osmanapajaro2@gmail.com
+- 📫 How to reach me osmanpajaro2@gmail.com
 - ⚡ Fun fact: I love cats 🐈‍⬛
 
 <!---
