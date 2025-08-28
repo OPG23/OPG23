@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OPG23
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning KOTLIN
 - 💞️ I’m looking to collaborate on a big Software Company
 - 📫 How to reach me osmanpajaro2@gmail.com
 - ⚡ Fun fact: I love cats 🐈‍⬛
